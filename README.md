@@ -1,11 +1,11 @@
 # 1- STUDY-OF-MICROWAVE-COMPONENTS-AND-INSTRUMENTS
-## Aim:
+## AIM:
 To become familiar with microwave components and instruments available in the laboratory.
 
-## Apparatus Used:
+## APPARATUS USED:
 Klystron power supply, Gunn power supply, VSWR meter, power meter, Slotted section, Frequency/wave meter, RF Generator, Vector Network Analyzer.
 
-## Objectives:
+## OBJECTIVES:
 Note relevant Technical specifications of the instruments.
 Study position and functions of the front panel controls of the equipment.
 Know basic principle of operation and functional block diagram of the instrument.
@@ -15,7 +15,7 @@ Precautions to be taken while carrying out the measurements.
 Observation: ( Include your own Table relevant to the Experiment)
  Identify the components/devices.  Study basic principle of operation of devices and components.  Know typical application of each component.  Identify the E field and H field mode patterns in these devices.
 
-## Theory
+## THEORY:
 Components/Devices: Attenuator, circulator, Isolator, Waveguide twist, Magic Tee, E plane, H plane Tee, Directional coupler, Matched termination, PIN modulator, Crystal detector, Reflex klystron tube, Gunn diode, different types of antennas available.
 
 ## LIST OF EQUIPMENTS AND DEVICES TO BE STUDIED:
@@ -141,7 +141,6 @@ In E Plane Tee the junction of the auxiliary arm is made on the broad wall of th
 
 E Plane Tee H Plane Tee
 <img width="558" height="249" alt="image" src="https://github.com/user-attachments/assets/765529ad-9943-4690-98f1-1202398a1593" />
-<img width="558" height="249" alt="image" src="https://github.com/user-attachments/assets/1963ee15-e523-4563-98a2-aa65b9bcd19f" />
 
 #### 12. Matched Termination
 These are used for terminating the waveguide systems operating at low average power and are designed to absorb all the applied power assuring low SWR. Where a matched load is required as in the measurement of reflection, discontinuities of obstacle in waveguide systems, these components are used. These are also employed as a precise reference loads with tee junctions, directional couplers etc.
